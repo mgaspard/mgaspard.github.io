@@ -12,3 +12,5 @@ My research interests include
 1. [Citation 1](https://scholar.google.com/) 
 2. [Citation 2](https://scholar.google.com/)
 3. [Citation 3](https://scholar.google.com/)
+
+***Thanks for visiting!***
